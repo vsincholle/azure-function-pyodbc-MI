@@ -2,4 +2,4 @@
 
 azure-functions
 azure-identity
-pyodbc
+pyodbc==4.0.32
